@@ -73,4 +73,4 @@ displayList();
 // 2. Replace the <strong> element with a newly created one.
 
 
-document.querySelector()
+document.querySelector("#forever").remove(strong);
